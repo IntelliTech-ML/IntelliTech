@@ -1,4 +1,3 @@
-README: |
   # 🚀 IntelliNeuro PerceptronX
   ## 🤖 Custom Perceptron Machine Learning Library
 
