@@ -1,4 +1,5 @@
   # 🚀 IntelliNeuro PerceptronX
+  https://pypi.org/project/IntelliNeuro/0.1.0/
   ## 🤖 Custom Perceptron Machine Learning Library
 
   **Author:** Ajay Soni
